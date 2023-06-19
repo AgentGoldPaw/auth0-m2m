@@ -1,0 +1,15 @@
+{
+  "name": "@redmunroe/auth0-m2m",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RedMunroe/auth0-m2m"
+  },
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT"
+}
