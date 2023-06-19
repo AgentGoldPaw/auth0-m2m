@@ -23,7 +23,7 @@ export default class Auth0 {
                 grant_type: 'client_credentials'
             })
         }); 
-
+        console.log((await response.blob()).toString());
         const responseJson = await response.json();
         return responseJson.access_token;
     }
