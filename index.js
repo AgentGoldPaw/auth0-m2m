@@ -1,5 +1,4 @@
-export default class Auth0 {
-
+module.exports = class Auth0 {
     client_id; 
     domain;
     client_secret;
