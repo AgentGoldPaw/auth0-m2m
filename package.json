@@ -5,7 +5,7 @@
     "type": "git",
     "url": "https://github.com/RedMunroe/auth0-m2m"
   },
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "",
   "main": "dist/index.js",
   "scripts": {
